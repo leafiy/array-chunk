@@ -1,0 +1,8 @@
+{
+  "name": "@leafiy/array-chunk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:leafiy/array-chunk.git",
+  "author": "leafiy",
+  "license": "MIT"
+}
